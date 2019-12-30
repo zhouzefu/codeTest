@@ -15,4 +15,4 @@ fs.readFile('./resources/input.txt',function (error,data) {
     console.log(error);
     console.log(data.toString());
 });
-console.log("程序执行结束!");//会先执行
+console.log("程序执行结束");//会先执行

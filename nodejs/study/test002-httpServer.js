@@ -1,7 +1,7 @@
 /*=====================属性=================*/
 var http = require('http');
 
-/*=====================方法=================*/
+/*=====================方法 =================*/
 http.createServer(httpServer).listen(80);
 
 function httpServer(request,response) {

@@ -23,5 +23,5 @@ eventEmitter.on('trigger-function002',test002);
 eventEmitter.emit('trigger-function001');
 eventEmitter.emit('trigger-function002');
 
-console.log("程序执行完毕。");
+console.log("程序执行完毕");
 
